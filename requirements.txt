@@ -1,7 +1,7 @@
 numpy
 pandas
 matplotlib
-keras==2.2.4
+keras
 tensorflow
 pandas-profiling
 tabulate
